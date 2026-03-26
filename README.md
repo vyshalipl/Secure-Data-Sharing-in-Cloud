@@ -35,7 +35,7 @@ secure-cloud-abe/
 ## ⚙️ Installation
 
 1. Clone the repository
-   git clone https://github.com/your-username/secure-cloud-abe.git
+   git clone https://github.com/vyshalipl/secure-cloud-abe.git
 
 2. Navigate to project
    cd secure-cloud-abe
